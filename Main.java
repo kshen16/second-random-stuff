@@ -5,5 +5,7 @@ class Main {
     System.out.println("i am so confused??");
     System.out.println("this better work");
     System.out.println("I really hope this works");
+    System.out.println("Yo Lucy you're seeing this!")
+    
   }
 }
